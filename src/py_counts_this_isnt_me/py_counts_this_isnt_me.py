@@ -30,6 +30,6 @@ def count_words(input_file):
     # count words in list
     word_counts = Counter(words_list)
     # output word count
-    print(word_counts)
-
+    print(word_counts)  
+    
 # count_words("zen.txt")
